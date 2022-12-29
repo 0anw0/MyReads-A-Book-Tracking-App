@@ -5,7 +5,7 @@ This is my assessment project for Udacity's React Fundamentals course.
 
 ## Get started: 
 
-* You can download ```bash .zip ``` file by pressing on the green button with name ```Code```  and select ```Download Zip``` 
+* You can download ``` .zip ``` file by pressing on the green button with name ```Code```  and select ```Download Zip``` 
 * You can clone it through 
 ``` git clone https://github.com/0anw0/MyReads-A-Book-Tracking-App.git```
 
